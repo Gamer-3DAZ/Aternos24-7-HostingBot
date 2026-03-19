@@ -9,7 +9,7 @@
     "ip": "SchoolSMP_server.aternos.me",
     "port": 40769,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
