@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "LavnenBhojyam",
+    "password": "nigga",
     "type": "offline"
   },
   "server": {
     "ip": "SchoolSMP_server.aternos.me",
     "port": 40769,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
